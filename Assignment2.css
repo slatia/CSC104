@@ -1,0 +1,24 @@
+body{
+    background-color:rgb(210, 255, 210);
+}
+h3{
+    color:rgb(144, 204, 142);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    font-style:italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgb(72, 141, 63);
+}
+h2{
+    color:rgb(91, 197, 197);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    color:rgb(231, 181, 44);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration:underline;
+}
+ul{
+    list-style-type: none;
+}
